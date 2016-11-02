@@ -8,3 +8,18 @@
 /* jshint asi:true */
 
 'use strict'
+
+// var git = require('./index')
+
+// git.clone('https://github.com/verbose/verb.git -b dev').then(function (res) {
+//   console.log(res) // dev branch cloned
+// }, function (err) {
+//   console.log('err', err)
+// })
+
+// process.chdir('./verb')
+// git.checkout('dev').then(function (res) {
+//   console.log(res)
+// }, function (err) {
+//   console.log('err', err)
+// })

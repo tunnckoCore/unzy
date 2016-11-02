@@ -21,10 +21,11 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "dargs": "^5.1.0",
+    "dargs-fork": "tunnckoCore/dargs-fork#master",
     "execa": "^0.5.0",
     "lazy-cache": "^2.0.1",
-    "minibase": "^0.4.1"
+    "minibase": "^0.4.1",
+    "minimist": "^1.2.0"
   },
   "devDependencies": {
     "commitizen": "^2.8.6",
