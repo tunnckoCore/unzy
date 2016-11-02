@@ -1,7 +1,7 @@
 {
   "name": "unzy",
   "version": "0.4.0",
-  "description": "Minimalist, extremely pluggable, programmatic Git interface for node.js, built on MiniBase. ",
+  "description": "Minimalist, extensible framework for building programmatic API interfaces of CLI programs, built on [minibase][].",
   "repository": "tunnckoCore/unzy",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
   "precommit.silent": true,
